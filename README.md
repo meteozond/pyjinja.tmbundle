@@ -1,6 +1,7 @@
-#Python Jinja syntax TextMate bundle# 
+# Python Jinja syntax TextMate bundle #
 
 Jinja Python syntax highlight. Like for HTML but for Python.
+Adds some comfort for editing source-code generation python templates writen with jinja (*.pyjinja).
 
 ## IntelliJ ##
 
